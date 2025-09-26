@@ -86,3 +86,4 @@ if __name__ == "__main__":
         #If people wanna leave
         exitphrases=["Ugh, fine. Bye.","Finally, some peace and quiet.","Can't believe you made me do this.","Whatever, I'm outta here.","Peace."]
         print("\n"+exitphrases[random.randint(0,4)])
+        print("Can't even type q to quit properly.")
