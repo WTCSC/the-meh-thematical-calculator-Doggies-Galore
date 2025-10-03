@@ -46,7 +46,7 @@ def main():
         choice = input("Enter choice (1/2/3/4/5/6) or 'q' to quit: ")
 
         if choice == 'q':
-            print("Goodbye!")
+            print("Seeya.")
             break
 
         if choice in ['1', '2', '3', '4','5','6']:
