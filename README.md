@@ -18,3 +18,14 @@ python calculator.py
 ## Design Flow:
 
 <img width="2872" height="588" alt="image" src="https://github.com/user-attachments/assets/78228da5-4be5-4ef2-a050-f55491a8ad99" />
+
+## Pytest:
+
+Tests cover all of the calculator functions, and validates that edge-cases are safely handled.
+
+To validate:
+```
+pytest
+```
+
+or run the tests in your IDE.
